@@ -18,5 +18,4 @@
             Console.WriteLine("SALVANDO A FOTO EM FORMATO .JPG");
         }
     }
-
 }
