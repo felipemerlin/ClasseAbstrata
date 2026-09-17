@@ -8,14 +8,14 @@
     {
         public void Salvar()
         {
-            Console.WriteLine("SALVANDO O DOCUMENTO EM FORMATO .DOC");
+            Console.WriteLine("Salvando o documento em formato .DOC");
         }
     }
     public class Foto : ISalvavel
     {
         public void Salvar()
         {
-            Console.WriteLine("SALVANDO A FOTO EM FORMATO .JPG");
+            Console.WriteLine("Salvando a foto em formato .JPG");
         }
     }
 }
